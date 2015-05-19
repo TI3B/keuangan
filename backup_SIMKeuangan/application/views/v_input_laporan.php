@@ -2,7 +2,7 @@
 <?php require('menu.php'); ?>
 
 <?php
- echo form_open('c_input_laporan'); //membuka file tambah_data di c_mhs
+ echo form_open('c_input_laporan');
 ?>
 
 <table class="table table-striped table-bordered bootstrap-datatable datatable responsive" width="100%"><tbody><tr><td class="center"><table class="table table-striped table-bordered bootstrap-datatable datatable responsive">
