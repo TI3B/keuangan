@@ -8,5 +8,5 @@ class C_pemasukan extends CI_Controller{
 		
 	}
 	
-}
+}//rentiaelek
 ?>
